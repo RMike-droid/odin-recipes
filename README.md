@@ -1,1 +1,2 @@
 # odin-recipes
+This is just a basic HTML site and my first ever project with TOP. I have demonstrated a working knowledge of headings, oredered and unordered lists, adding images, and creating links. I plan to return to this project again soon once I have gained a basic understanding of CSS so that I can add some basic styling.
