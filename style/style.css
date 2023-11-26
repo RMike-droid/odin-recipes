@@ -6,10 +6,23 @@ h1 {
     text-align: center;
     color: white;
     background-color: black;
+    width: 300px;
+    margin: auto;
 }
 
 h2,
 h3 {
     background-color: purple;
     color: gold;
+    margin: 8px 15px;
+}
+
+.links {
+    list-style: none;
+}
+
+.page {
+    padding: 3px;
+    text-align: center;
+    width: 20px;
 }
